@@ -69,6 +69,10 @@ CREATE TABLE IF NOT EXISTS `civicrm_membership_churn_monthly_table` (
 
 ## Release Notes
 
+### Release 1.1a
+
+* Merged 2 pull requests in one file: https://github.com/veda-consulting/uk.co.vedaconsulting.membershipchurnchart/pull/7 and https://github.com/veda-consulting/uk.co.vedaconsulting.membershipchurnchart/pull/8 
+
 ### Release 1.1
 
 * Replace settings with generic form.
